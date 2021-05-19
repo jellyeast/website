@@ -18,8 +18,6 @@ const useStyles = makeStyles({
     },
     image:{
         backgroundImage:'url('+bg+')',
-        // backgroundImage: 'url(https://source.unsplash.com/random)',
-        // width : '100vw',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         display: 'grid',
